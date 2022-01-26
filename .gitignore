@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+
+### Maven ###
+target/
+
+# Package Files #
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
